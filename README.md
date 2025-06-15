@@ -2,18 +2,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Arifuzzaman Arif</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh (BD)</h3>
+<h3 align="center">A passionate AI & Computer Vision Researcher & Software Developer from Bangladesh (BD)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 
-- 🌱 I’m currently learning **Cloud Computing & Machine Learning**
+- 🌱 I’m currently learning **App Development**
 
-- 💬 Ask me about **Web Dev & Machine Learning**
+- 💬 Ask me about **Web Dev & AI**
 
 - 📫 How to reach me **mdarifuzzamanarif1999@gmail.com**
 
-- ⚡ Fun fact **I'm an approachable person won't bite :)**
+- ⚡ Fun fact **I'm an approachable person)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
