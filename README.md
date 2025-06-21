@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **App Development & Cloud Computing**
 
-- 💬 Ask me about **AI, Web Dev. ML, DL & Computer Vision**
+- 💬 Ask me about **AI, Web Dev, ML, DL & Computer Vision**
 
 - 📫 How to reach me **mdarifuzzamanarif1999@gmail.com**
 
