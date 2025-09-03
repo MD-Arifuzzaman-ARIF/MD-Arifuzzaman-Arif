@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **App Development & Cloud Computing**
+- 🌱 I’m currently learning **Ai Agents, LLM's & App Development**
 
 - 💬 Ask me about **AI, Web Dev, ML, DL & Computer Vision**
 
