@@ -3,13 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **AI Agents, NLP, LLM's & GenerativeAI **
+- 🌱 I’m currently learning **AI Agents, NLP, LLM's & GenerativeAI**
 
 - 💬 Ask me about **AI, Web Dev, ML, DL & Computer Vision**
 
 - 📫 How to reach me **mdarifuzzamanarif1999@gmail.com**
 
-- ⚡ Fun fact **I'm an approachable person)**
+- ⚡ Fun fact **I'm an approachable person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
