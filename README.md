@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Agents, NLP, LLM's & GenerativeAI**
 
-- 💬 Ask me about **AI, Web Dev, ML, DL & Computer Vision**
+- 💬 Ask me about **AI, Web Dev, LLM's, AI Agents & Computer Vision**
 
 - 📫 How to reach me **mdarifuzzamanarif1999@gmail.com**
 
